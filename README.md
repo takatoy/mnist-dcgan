@@ -1,4 +1,3 @@
 # MNIST DCGAN Implementation
 
-![result](https://github.com/Takaten/mnist-dcgan/result.gif)
-
+![result](https://github.com/Takaten/mnist-dcgan/blob/media/result.gif)
