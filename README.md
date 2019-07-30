@@ -1,4 +1,4 @@
-# MNIST DCGAN Implementation
+# MNIST DCGAN Implementation of pytorch
 
 ## Result
 - 200 epochs
