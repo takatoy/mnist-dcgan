@@ -3,3 +3,7 @@ images
 graphs
 
 .ipynb_checkpoints
+
+__pycache__
+.DS_Store
+!.gitkeep
